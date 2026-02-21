@@ -7,7 +7,7 @@ Computer Science student seeking internship and entry-level opportunities in Sof
 - **Programming:** Python, SQL  
 - **Web Technologies:** HTML, CSS  
 - **Frameworks & Tools:** Streamlit  
-- **Database:** SQLite / DBMS  
+- **Database:** MySQL / DBMS  
 - **Core Areas:** Artificial Intelligence, Recommendation Systems, Optimization Techniques  
 
 ## 🚀 Key Projects
