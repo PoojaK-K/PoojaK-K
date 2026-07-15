@@ -63,12 +63,6 @@ AI-powered public policy analysis platform using Retrieval-Augmented Generation 
 
 Tech: Python • RAG • NLP • Knowledge Graphs
 
-🎵 InstruNet AI
-
-Deep Learning model that recognizes musical instruments from audio recordings using Convolutional Neural Networks.
-
-Tech: Python • TensorFlow • Librosa
-
 🏆 Achievements
 
 🏅 Infosys Springboard Virtual Internship 6.0
