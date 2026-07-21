@@ -103,24 +103,6 @@ Blood Donation Management System connecting donors and recipients efficiently th
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PoojaK-K&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - 🚀 Build impactful AI-powered applications
