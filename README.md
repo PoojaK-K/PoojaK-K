@@ -123,9 +123,6 @@ Blood Donation Management System connecting donors and recipients efficiently th
 
 https://www.linkedin.com/in/poojak-k/
 
-🐙 **GitHub**
-
-https://github.com/PoojaK-K
 
 ---
 
