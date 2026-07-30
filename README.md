@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja K K</h1>
 
 <h3 align="center">
-AI & Full-Stack Developer | Java | React | FastAPI | Generative AI
+AI & Full-Stack Developer | Java | React | FastAPI | Generative AI | Python
 </h3>
 
 <p align="center">
