@@ -125,7 +125,7 @@ https://www.linkedin.com/in/poojak-k/
 
 🔗 **Website**
 
-portfolio-gv18.vercel.app
+https://portfolio-gv18.vercel.app/
 
 ---
 
