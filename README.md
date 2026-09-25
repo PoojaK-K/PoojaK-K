@@ -10,7 +10,7 @@ Building intelligent software that solves real-world problems, one project at a 
 
 ---
 
-## 🌸 About Me
+##  About Me
 
 - 🎓 Computer Science Engineering Student
 - 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
@@ -21,12 +21,12 @@ Building intelligent software that solves real-world problems, one project at a 
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
-| 👨‍💻 Languages | Java • Python • JavaScript • SQL • C |
-| 🎨 Frontend | React • HTML5 • CSS3 • Tailwind CSS |
+| 💻 Languages | Java • Python • JavaScript • SQL • C |
+| 👨‍💻 Frontend | React • HTML5 • CSS3 • Tailwind CSS |
 | ⚙️ Backend | FastAPI • Node.js • Express.js |
 | 🗄️ Databases | PostgreSQL • MySQL • MongoDB • SQLite |
 | 🤖 AI & ML | OpenAI API • OCR • NLP • RAG • Knowledge Graphs |
@@ -34,7 +34,7 @@ Building intelligent software that solves real-world problems, one project at a 
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ### 🩺 MediSense AI
 AI-powered Medical Report Analyzer that extracts text from reports, summarizes findings, highlights abnormalities, securely stores patient history, and provides an intelligent healthcare chatbot.
@@ -93,7 +93,7 @@ Blood Donation Management System connecting donors and recipients efficiently th
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 - 🤖 AI Agents
 - ☁️ Cloud Computing
