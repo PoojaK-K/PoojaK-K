@@ -1,369 +1,279 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171923,45:514477,100:8B78C7&amp;height=210&amp;section=header&amp;text=Pooja%20K%20K&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20Full-Stack%20Developer&amp;descAlignY=60&amp;descSize=19&amp;animation=fadeIn" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=B9A5F5&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=45&amp;lines=Building+Intelligent+Applications;Java+%7C+Python+%7C+React+%7C+FastAPI;Exploring+Generative+AI%2C+RAG+%26+AI+Agents;Turning+Ideas+Into+Real-World+Solutions" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PoojaK-K&amp;label=PROFILE+VIEWS&amp;color=8B78C7&amp;style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/PoojaK-K?label=FOLLOWERS&amp;style=for-the-badge&amp;color=3572A5" />
-<img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-239B87?style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B78C7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://github.com/PoojaK-K"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DSA-100%2B%20Java%20Problems-8B78C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20Intern-Infosys%20Springboard-087E8B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-F39C12?style=flat-square"/>
-
-</div>
-
----
-
-## ✦ About Me
-
-Hey there! I'm Pooja, a Computer Science student and aspiring software developer passionate about building intelligent applications and solving real-world problems.
-
-I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack Development**, transforming ideas into practical applications through clean code, thoughtful design and continuous learning.
-
-- Developing AI-powered applications and intelligent systems.
-- Exploring Generative AI, Retrieval-Augmented Generation and AI Agents.
-- Strengthening problem-solving skills through Java and DSA.
-- Interested in backend engineering, databases and scalable applications.
-
-*Curious by nature. Always learning. Always building.*
-
-<details>
-<summary><b>✧ A little more about what I enjoy</b></summary>
-
-<br/>
-
-- Building applications that solve meaningful problems.
-- Experimenting with emerging AI technologies.
-- Understanding how things work behind the scenes.
-- Learning new technologies through hands-on projects.
-
-</details>
-
----
-
-## ✦ Tech Stack &amp; Tools
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js&amp;theme=dark" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&amp;theme=dark" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&amp;theme=dark" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&amp;theme=dark" />
-</p>
-
-### AI &amp; Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-8B78C7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-3572A5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OCR-E67E22?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Knowledge_Graphs-239B87?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Whisper-4B4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MarianMT-8B78C7?style=for-the-badge"/>
-</p>
-
-### Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
-</p>
-
----
-
-## ✦ Featured Projects
-
-<sub>Explore some of the applications and ideas I've been working on.</sub>
-
-<details open>
-<summary><b>✦ MediSense AI</b> &#160;|&#160; Medical Report Analyzer &amp; Summarizer</summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Healthcare-AI-9B59B6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full--Stack-Application-3572A5?style=flat-square"/>
-
-An AI-assisted healthcare platform that analyzes medical reports, extracts important information and provides easy-to-understand summaries.
-
-**Key Features**
-- PDF and image-based medical report extraction.
-- AI-powered report summarization.
-- Abnormal value detection and health insights.
-- Secure report history and storage.
-- Interactive dashboard and healthcare chatbot.
-
-**Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,python&amp;theme=dark"/>
-
-</details>
-
-<details>
-<summary><b>✦ EduCompass AI</b> &#160;|&#160; AI-Powered Student Planning Assistant</summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Domain-Education_AI-239B87?style=flat-square"/>
-
-An AI-powered student planning assistant that generates personalized career paths, study schedules and learning recommendations based on individual needs.
-
-**Key Features**
-- Personalized study-plan generation.
-- Career and course recommendations.
-- Budget and time-based learning suggestions.
-- Wellness chatbot.
-- Questionnaire-based feedback and personalization.
-
-**Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white"/>
-
-</details>
-
-<details>
-<summary><b>✦ PolicyNav</b> &#160;|&#160; AI Public Policy Navigator</summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Generative_AI-8B78C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-3572A5?style=flat-square"/>
-
-Developed during my Infosys Springboard AI internship, PolicyNav simplifies complex public policy documents using AI-powered information retrieval.
-
-**Key Features**
-- Retrieval-Augmented Generation (RAG).
-- Semantic document search.
-- Policy document summarization.
-- Knowledge graph-based information exploration.
-
-**Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
-<img src="https://img.shields.io/badge/RAG-8B78C7?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-3572A5?style=flat-square"/>
-
-</details>
-
-<details>
-<summary><b>✦ Automated Translation in Live Sessions</b> &#160;|&#160; Real-Time Speech Translation</summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Domain-Speech_AI-E67E22?style=flat-square"/>
-
-A multilingual speech translation platform designed to make live communication more accessible through speech recognition, machine translation and speech synthesis.
-
-**Key Features**
-- Automatic speech recognition.
-- Multilingual machine translation.
-- Live translated subtitles.
-- Text-to-speech generation.
-
-**Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
-<img src="https://img.shields.io/badge/Whisper-4B4B4B?style=flat-square"/>
-<img src="https://img.shields.io/badge/MarianMT-8B78C7?style=flat-square"/>
-
-</details>
-
-<details>
-<summary><b>✦ LumoCart</b> &#160;|&#160; AI-Powered E-Commerce Platform</summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Domain-E--Commerce-239B87?style=flat-square"/>
-
-An e-commerce application focused on product discovery, user authentication and a streamlined shopping experience.
-
-**Key Features**
-- Product browsing.
-- User authentication.
-- Product management.
-
-**Technology Stack**
-
-<img src="https://skillicons.dev/icons?i=python,sqlite&amp;theme=dark"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white"/>
-
-</details>
-
-<details>
-<summary><b>✦ BloodBridge</b> &#160;|&#160; Blood Donation Management System</summary>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Domain-Healthcare-DC3545?style=flat-square"/>
-
-A blood donation management platform designed to connect donors and recipients through an organized system.
-
-**Key Features**
-- Donor and recipient management.
-- Blood donation coordination.
-- Database-driven information management.
-
-**Database**
-
-<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark"/>
-
-</details>
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Pooja%20K%20K&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="header" />
 
 <div align="center">
 
-<a href="https://github.com/PoojaK-K?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-8B78C7?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
+<a href="https://github.com/PoojaK-K">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+intelligent+software+that+solves+real+problems;AI+%26+Full-Stack+Developer;Java+%7C+Python+%7C+React+%7C+FastAPI;Exploring+Generative+AI%2C+RAG+%26+AI+Agents;Turning+ideas+into+intelligent+software+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=PoojaK-K&label=Profile%20Views&color=a855f7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/PoojaK-K?style=for-the-badge&logo=github&color=a855f7)
+![Repos](https://img.shields.io/github/stars/PoojaK-K?style=for-the-badge&logo=github&color=ec4899&label=Stars)
+
+<br/>
+
+<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
 
 ---
 
-## ✦ Experience
+## 👩‍💻 About Me
 
-<details open>
-<summary><b>✧ AI Intern — Infosys Springboard</b> &#160;|&#160; February 2026 – April 2026</summary>
+```python
+class Pooja:
+    def __init__(self):
+        self.role      = "CSE Undergraduate | AI & Full-Stack Developer"
+        self.college   = "V.S.B. Engineering College, Karur (2023 - 2027)"
+        self.location  = "Karur, Tamil Nadu 🇮🇳"
+        self.interests = ["Generative AI", "RAG", "AI Agents", "Backend Engineering"]
+        self.currently = "Building AI-powered apps & strengthening System Design"
 
+    def motto(self):
+        return "Always curious to learn, build, and innovate 🌱"
+```
+
+- 🎓 Computer Science Engineering student with strong foundations in **Java, Python, SQL, OOP & DSA**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+- 💻 Building database-driven and AI-powered **full-stack applications** with FastAPI and React
+- 📚 Solving **Data Structures & Algorithms** with Java
+- 💼 Former **AI Intern at Infosys Springboard** (Feb – Apr 2026)
+- 🔍 Open to opportunities in **Software Development, Backend Engineering & AI applications**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-A855F7?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-EC4899?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-0EA5E9?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-10B981?style=for-the-badge)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> 👇 **Click on a project to expand it!**
+
+<details>
+<summary><b>🩺 MediSense AI</b> — Medical Report Analyzer & Summarizer</summary>
 <br/>
 
-**Virtual Internship | 8 Weeks**
+AI-powered system that extracts text from **PDF and image-based medical reports**, summarizes findings, and **detects abnormal values**. It securely stores reports and patient history, offers interactive dashboards, and includes an intelligent healthcare chatbot.
 
-- Worked on PolicyNav, an AI-powered public policy navigation solution.
-- Explored Generative AI, Retrieval-Augmented Generation and document processing.
-- Worked on AI-powered information retrieval and document summarization.
-- Collaborated with a cohort of interns and participated in the final project presentation.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-0EA5E9?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>✧ Web Development Intern — Newmak Technology</b> &#160;|&#160; December 2024 – January 2025</summary>
-
+<summary><b>🧭 EduCompass</b> — AI-Powered Student Planning Assistant</summary>
 <br/>
 
-**Coimbatore**
+AI-powered student assistant that provides **personalized career plans, study schedules, course recommendations, and wellness support**. Includes user-based recommendations and a feedback system to boost personalization and engagement.
 
-- Gained practical exposure to web development.
-- Explored application development and frontend implementation.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </details>
 
+<details>
+<summary><b>📑 PolicyNav</b> — AI Public Policy Navigator <i>(Infosys Springboard Internship)</i></summary>
+<br/>
+
+AI-powered public policy analysis platform that **simplifies government documents** using Retrieval-Augmented Generation (RAG), semantic search, document summarization, and Knowledge Graphs.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-EC4899?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-A855F7?style=flat-square)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-10B981?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>🌍 Automated Translation in Live Sessions</b></summary>
+<br/>
+
+Real-time multilingual speech translation platform with **speech recognition, machine translation, live subtitles, and speech synthesis**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![MarianMT](https://img.shields.io/badge/MarianMT-F59E0B?style=flat-square)
+![TTS](https://img.shields.io/badge/Text--to--Speech-0EA5E9?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>🛒 LumoCart</b> — AI-Powered E-Commerce Platform</summary>
+<br/>
+
+Modern e-commerce platform featuring **product browsing, authentication, and a smart shopping experience**.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🩸 BloodBridge</b> — Blood Donation Management System</summary>
+<br/>
+
+Connects **donors and recipients** efficiently through an easy-to-use platform.
+
+</details>
+
+<div align="center">
+
+[![View All Repositories](https://img.shields.io/badge/View_All_Repositories-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaK-K?tab=repositories)
+
+</div>
+
 ---
 
-## ✦ Certifications
+## 💼 Experience
 
 <details open>
-<summary><b>🏅 View Certifications &amp; Achievements</b> &#160;·&#160; Click to explore</summary>
-
+<summary><b>AI Intern — Infosys Springboard</b> &nbsp;|&nbsp; Feb 2026 – Apr 2026 &nbsp;|&nbsp; Virtual</summary>
 <br/>
 
-### 01. Programming in Java
-
-<img src="https://img.shields.io/badge/NPTEL-Elite_Certification-3572A5?style=flat-square"/>
-
-**Score: 87%**
-
----
-
-### 02. Python Programming
-
-<img src="https://img.shields.io/badge/Livewire_India-Completed-239B87?style=flat-square"/>
-
-Python programming certification.
-
----
-
-### 03. Principles of Generative AI
-
-<img src="https://img.shields.io/badge/Infosys_Springboard-Completed-8B78C7?style=flat-square"/>
-
-Generative AI fundamentals and concepts.
+- Developed **PolicyNav**, an AI-powered public policy navigation solution involving document summarization and information retrieval
+- Gained hands-on experience with **Generative AI, RAG, document processing**, and AI-based information retrieval
 
 </details>
 
 ---
 
-## ✦ GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171923&amp;title_color=B9A5F5&amp;icon_color=F0B86E&amp;text_color=E6E6F0&amp;include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&layout=compact&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&amp;layout=compact&amp;hide_border=true&amp;bg_color=171923&amp;title_color=B9A5F5&amp;text_color=E6E6F0" />
+<img src="https://streak-stats.demolab.com?user=PoojaK-K&theme=radical&hide_border=true" />
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=PoojaK-K&amp;hide_border=true&amp;background=171923&amp;ring=B9A5F5&amp;fire=F0B86E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=B9A5F5&amp;sideLabels=B9A5F5&amp;dates=AAAAAA&amp;border_radius=12" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaK-K&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
-## ✦ LeetCode Journey
+## 🏆 Achievements & Certifications
+
+| | |
+|---|---|
+| 🏅 | **Infosys Springboard Virtual Internship 6.0** |
+| ☕ | **Programming in Java** — NPTEL (Elite, 87%) |
+| 🐍 | **Python Programming** — Livewire India |
+| 🤖 | **Principles of Generative AI** — Infosys Springboard |
+| 🧩 | Solved **100+ DSA problems** using Java |
+| 💻 | Built multiple AI & Full-Stack projects |
+
+---
+
+## 🌱 Currently Learning
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Pooja_K_K/">
-<img src="https://leetcard.jacoblin.cool/Pooja_K_K?theme=dark&amp;font=Baloo&amp;ext=heatmap" width="85%" alt="Pooja's LeetCode statistics"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/Pooja_K_K/">
-<img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
-</a>
+![AI Agents](https://img.shields.io/badge/🤖_AI_Agents-A855F7?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/☁️_Cloud_Computing-0EA5E9?style=for-the-badge)
+![System Design](https://img.shields.io/badge/🧠_System_Design-EC4899?style=for-the-badge)
+![Advanced Java](https://img.shields.io/badge/☕_Advanced_Java-ED8B00?style=for-the-badge)
+![Backend](https://img.shields.io/badge/⚡_Backend_Architecture-10B981?style=for-the-badge)
 
 </div>
 
 ---
 
-## ✦ Let's Connect
+## 🎯 2026 Goals
+
+- [x] 🛠️ Build AI-powered applications
+- [x] 💼 Complete an AI internship
+- [ ] 🌍 Contribute to Open Source
+- [ ] 📚 Strengthen System Design & Backend Development
+- [ ] 💡 Learn and implement one new technology every month
+- [ ] ⭐ Continuously improve problem-solving skills
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-I'm always interested in connecting with fellow developers, exploring new technologies and collaborating on meaningful projects.
-
-<br/>
-
-<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="https://github.com/PoojaK-K"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
-<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B78C7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
-
-<br/><br/>
-
-*"Turning curiosity into code, and ideas into impact."*
+<!-- Optional: needs a one-time GitHub Action setup (see notes) -->
+<img src="https://raw.githubusercontent.com/PoojaK-K/PoojaK-K/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B78C7,55:514477,100:171923&amp;height=120&amp;section=footer" width="100%"/>
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/poojakathirvelv@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/linkedin.com/in/poojak--k-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/portfolio--gv18.vercel.app-A855F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+⭐ *Thanks for visiting my profile!* ⭐
+
+*"Turning ideas into intelligent software through continuous learning and innovation."* 💜
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
