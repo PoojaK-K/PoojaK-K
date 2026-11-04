@@ -1,21 +1,21 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171923,45:514477,100:8B78C7&height=210&section=header&text=Pooja%20K%20K&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=19&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171923,45:514477,100:8B78C7&amp;height=210&amp;section=header&amp;text=Pooja%20K%20K&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=AI%20%26%20Full-Stack%20Developer&amp;descAlignY=60&amp;descSize=19&amp;animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=B9A5F5&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+Intelligent+Applications;Java+%7C+Python+%7C+React+%7C+FastAPI;Exploring+Generative+AI%2C+RAG+%26+AI+Agents;Turning+Ideas+Into+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=17&amp;duration=3000&amp;pause=1000&amp;color=B9A5F5&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;height=45&amp;lines=Building+Intelligent+Applications;Java+%7C+Python+%7C+React+%7C+FastAPI;Exploring+Generative+AI%2C+RAG+%26+AI+Agents;Turning+Ideas+Into+Real-World+Solutions" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=PoojaK-K&label=PROFILE+VIEWS&color=8B78C7&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/PoojaK-K?label=FOLLOWERS&style=for-the-badge&color=3572A5" />
+<img src="https://komarev.com/ghpvc/?username=PoojaK-K&amp;label=PROFILE+VIEWS&amp;color=8B78C7&amp;style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/PoojaK-K?label=FOLLOWERS&amp;style=for-the-badge&amp;color=3572A5" />
 <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-239B87?style=for-the-badge" />
 
 <br/><br/>
 
-<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B78C7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/PoojaK-K"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B78C7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://github.com/PoojaK-K"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
 
 <br/><br/>
 
@@ -59,31 +59,31 @@ I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack D
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,js&amp;theme=dark" />
 </p>
 
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&amp;theme=dark" />
 </p>
 
 ### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&amp;theme=dark" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&amp;theme=dark" />
 </p>
 
 ### AI & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-8B78C7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-3572A5?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OCR-E67E22?style=for-the-badge"/>
@@ -95,9 +95,9 @@ I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack D
 ### Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&amp;theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@ I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack D
 <sub>Explore some of the applications and ideas I've been working on.</sub>
 
 <details open>
-<summary><b>✦ MediSense AI</b> &nbsp;|&nbsp; Medical Report Analyzer & Summarizer</summary>
+<summary><b>✦ MediSense AI</b> &nbsp;|&nbsp; Medical Report Analyzer &amp; Summarizer</summary>
 
 <br/>
 
@@ -125,12 +125,12 @@ An AI-assisted healthcare platform that analyzes medical reports, extracts impor
 
 **Technology Stack**
 
-<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,fastapi,postgres,python&amp;theme=dark"/>
 
 </details>
 
 <details>
-<summary><b>✦ EduCompass AI</b> &nbsp;|&nbsp; Student Planning Assistant</summary>
+<summary><b>✦ EduCompass AI</b> &nbsp;|&nbsp; AI-Powered Student Planning Assistant</summary>
 
 <br/>
 
@@ -147,8 +147,8 @@ An AI-powered student planning assistant that generates personalized career path
 
 **Technology Stack**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white"/>
 
 </details>
 
@@ -170,7 +170,7 @@ Developed during my Infosys Springboard AI internship, PolicyNav simplifies comp
 
 **Technology Stack**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
 <img src="https://img.shields.io/badge/RAG-8B78C7?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-3572A5?style=flat-square"/>
 
@@ -193,7 +193,7 @@ A multilingual speech translation platform designed to make live communication m
 
 **Technology Stack**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python&amp;theme=dark"/>
 <img src="https://img.shields.io/badge/Whisper-4B4B4B?style=flat-square"/>
 <img src="https://img.shields.io/badge/MarianMT-8B78C7?style=flat-square"/>
 
@@ -215,8 +215,8 @@ An e-commerce application focused on product discovery, user authentication and 
 
 **Technology Stack**
 
-<img src="https://skillicons.dev/icons?i=python,sqlite&theme=dark"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,sqlite&amp;theme=dark"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white"/>
 
 </details>
 
@@ -236,14 +236,14 @@ A blood donation management platform designed to connect donors and recipients t
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark"/>
 
 </details>
 
 <div align="center">
 
 <a href="https://github.com/PoojaK-K?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-8B78C7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_All_Repositories-8B78C7?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
 </a>
 
 </div>
@@ -283,31 +283,31 @@ A blood donation management platform designed to connect donors and recipients t
 ## ✦ Certifications
 
 <details open>
-<summary><b>🏅 View Certifications & Achievements</b> &nbsp;·&nbsp; Click to explore</summary>
+<summary><b>🏅 View Certifications &amp; Achievements</b> &nbsp;·&nbsp; Click to explore</summary>
 
 <br/>
 
-**01. Programming in Java**
+### 01. Programming in Java
 
 <img src="https://img.shields.io/badge/NPTEL-Elite_Certification-3572A5?style=flat-square"/>
 
-- Score: 87%
+**Score: 87%**
 
 ---
 
-**02. Python Programming**
+### 02. Python Programming
 
 <img src="https://img.shields.io/badge/Livewire_India-Completed-239B87?style=flat-square"/>
 
-- Python programming certification.
+Python programming certification.
 
 ---
 
-**03. Principles of Generative AI**
+### 03. Principles of Generative AI
 
 <img src="https://img.shields.io/badge/Infosys_Springboard-Completed-8B78C7?style=flat-square"/>
 
-- Generative AI fundamentals and concepts.
+Generative AI fundamentals and concepts.
 
 </details>
 
@@ -317,13 +317,13 @@ A blood donation management platform designed to connect donors and recipients t
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&show_icons=true&hide_border=true&bg_color=171923&title_color=B9A5F5&icon_color=F0B86E&text_color=E6E6F0&ring_color=8B78C7&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171923&amp;title_color=B9A5F5&amp;icon_color=F0B86E&amp;text_color=E6E6F0&amp;include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&layout=compact&hide_border=true&bg_color=171923&title_color=B9A5F5&text_color=E6E6F0" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&amp;layout=compact&amp;hide_border=true&amp;bg_color=171923&amp;title_color=B9A5F5&amp;text_color=E6E6F0" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=PoojaK-K&hide_border=true&background=171923&ring=B9A5F5&fire=F0B86E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=B9A5F5&sideLabels=B9A5F5&dates=AAAAAA&border_radius=12" />
+<img width="75%" src="https://streak-stats.demolab.com?user=PoojaK-K&amp;hide_border=true&amp;background=171923&amp;ring=B9A5F5&amp;fire=F0B86E&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=B9A5F5&amp;sideLabels=B9A5F5&amp;dates=AAAAAA&amp;border_radius=12" />
 
 </div>
 
@@ -334,13 +334,13 @@ A blood donation management platform designed to connect donors and recipients t
 <div align="center">
 
 <a href="https://leetcode.com/u/Pooja_K_K/">
-<img src="https://leetcard.jacoblin.cool/Pooja_K_K?theme=dark&font=Baloo&ext=heatmap" width="85%" alt="Pooja's LeetCode statistics"/>
+<img src="https://leetcard.jacoblin.cool/Pooja_K_K?theme=dark&amp;font=Baloo&amp;ext=heatmap" width="85%" alt="Pooja's LeetCode statistics"/>
 </a>
 
 <br/><br/>
 
 <a href="https://leetcode.com/u/Pooja_K_K/">
-<img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visit_My_LeetCode_Profile-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black"/>
 </a>
 
 </div>
@@ -355,10 +355,10 @@ I'm always interested in connecting with fellow developers, exploring new techno
 
 <br/>
 
-<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/PoojaK-K"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B78C7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="https://github.com/PoojaK-K"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B78C7?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
 
 <br/><br/>
 
@@ -366,4 +366,4 @@ I'm always interested in connecting with fellow developers, exploring new techno
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B78C7,55:514477,100:171923&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B78C7,55:514477,100:171923&amp;height=120&amp;section=footer" width="100%"/>
