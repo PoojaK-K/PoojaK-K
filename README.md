@@ -1,92 +1,69 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Pooja K K - AI & Full-Stack Developer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171923,55:232633,100:8875A9&amp;height=170&amp;section=header&amp;text=Pooja%20K%20K&amp;fontSize=54&amp;fontColor=F1F0F5&amp;fontAlignY=38&amp;animation=fadeIn" alt="Pooja K K" />
 
-<br/>
+<h3>AI &amp; Full-Stack Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PoojaK-K&label=Profile%20Views&color=3b4261&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/PoojaK-K?style=for-the-badge&logo=github&color=3b4261)
+<a href="https://github.com/PoojaK-K">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1200&amp;color=A78BCA&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=640&amp;height=40&amp;lines=Building+intelligent+software+that+solves+real-world+problems;Java+%7C+Python+%7C+React+%7C+FastAPI;Exploring+Generative+AI%2C+RAG+%26+AI+Agents;Former+AI+Intern+at+Infosys+Springboard" alt="Typing animation: Building intelligent software that solves real-world problems" />
+</a>
 
-<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2D3348?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-2D3348?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-2D3348?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PoojaK-K&amp;label=Profile+Views&amp;color=8875A9&amp;labelColor=232633&amp;style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/PoojaK-K?label=Followers&amp;style=for-the-badge&amp;labelColor=232633&amp;color=8875A9" alt="GitHub followers" />
+
+<br/><br/>
+
+<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfolio--gv18.vercel.app-8875A9?style=for-the-badge&amp;labelColor=232633" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-poojak--k-8875A9?style=for-the-badge&amp;labelColor=232633" alt="LinkedIn" /></a>
+<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-poojakathirvelv@gmail.com-8875A9?style=for-the-badge&amp;labelColor=232633" alt="Email" /></a>
+
+<br/><br/>
+
+<a href="#about">About</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+<a href="#experience--certifications">Experience</a> &nbsp;·&nbsp;
+<a href="#github-statistics">Stats</a> &nbsp;·&nbsp;
+<a href="#lets-connect">Contact</a>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a final-year Computer Science student at **V.S.B. Engineering College, Karur**, and I enjoy turning messy, real-world information into something people can actually use. So far that has meant medical reports that are hard to read, government policies full of jargon, and speech across language barriers.
+Computer Science student who enjoys building AI-powered, database-driven software, from backend APIs to the interfaces on top of them.
 
-My foundation is in **Java, Python, SQL and data structures**, and I build full-stack applications on top of it with **FastAPI and React**. What excites me most is where software meets AI: Retrieval-Augmented Generation, document understanding, and the early days of AI agents. During my **Infosys Springboard internship** I built PolicyNav, which gave me my first real taste of shipping a RAG-based product, and I've been hooked since.
+```python
+class PoojaKK:
+    role       = "AI & Full-Stack Developer"
+    education  = "B.E. Computer Science & Engineering, V.S.B. Engineering College (2023 - 2027)"
+    experience = "AI Intern, Infosys Springboard (Feb - Apr 2026)"
+    location   = "Karur, Tamil Nadu, India"
 
-I learn best by building, so most of what I know comes from projects that started as "I wonder if I can make this work."
+    strengths  = ["Java", "Python", "SQL", "OOP", "DBMS", "Data Structures & Algorithms"]
+    building   = ["AI-powered full-stack apps", "RAG-based document intelligence"]
+    exploring  = ["AI Agents", "Cloud Computing", "System Design"]
+    open_to    = ["Software Development", "Backend Engineering", "AI Applications"]
 
-| | |
-|---|---|
-| **Education** | B.E. Computer Science & Engineering, V.S.B. Engineering College (2023 – 2027) · CGPA 7.90 |
-| **Experience** | AI Intern, Infosys Springboard (Feb – Apr 2026) |
-| **Focus areas** | Generative AI · RAG · Backend Engineering · Full-Stack Development |
-| **Strongest at** | Object-Oriented Programming · DBMS · Problem Solving |
-| **Currently exploring** | AI Agents · Cloud Computing · System Design |
-| **Based in** | Karur, Tamil Nadu, India |
-| **Open to** | Software Development, Backend Engineering and AI application roles |
-
-> *Ask me about:* building a RAG pipeline, extracting data from scanned documents with OCR, or why I think good backend design matters as much as the AI on top of it.
+    def mindset(self):
+        return "Always curious to learn, build, and innovate."
+```
 
 ---
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-2D3348?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2D3348?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2D3348?style=flat-square&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-2D3348?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2D3348?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-2D3348?style=flat-square&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2D3348?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2D3348?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2D3348?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-2D3348?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-2D3348?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-2D3348?style=flat-square&logo=express&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D3348?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2D3348?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-2D3348?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2D3348?style=flat-square&logo=sqlite&logoColor=white)
-
-**AI & ML**
-
-![OpenAI](https://img.shields.io/badge/OpenAI_API-2D3348?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2D3348?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-2D3348?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-2D3348?style=flat-square)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-2D3348?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-2D3348?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2D3348?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-2D3348?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2D3348?style=flat-square&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-2D3348?style=flat-square&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-2D3348?style=flat-square&logo=powerbi&logoColor=white)
-
-</div>
+| Category | Technologies |
+|:--|:--|
+| **Programming Languages** | ![Java](https://img.shields.io/badge/Java-232633?style=flat-square) ![Python](https://img.shields.io/badge/Python-232633?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-232633?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-232633?style=flat-square) ![C](https://img.shields.io/badge/C-232633?style=flat-square) |
+| **Frontend Development** | ![React](https://img.shields.io/badge/React-232633?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-232633?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-232633?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-232633?style=flat-square) |
+| **Backend Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-232633?style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-232633?style=flat-square) ![Express.js](https://img.shields.io/badge/Express.js-232633?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232633?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-232633?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-232633?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-232633?style=flat-square) |
+| **AI & Machine Learning** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-232633?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-232633?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-232633?style=flat-square) ![OCR](https://img.shields.io/badge/OCR-232633?style=flat-square) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-232633?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-232633?style=flat-square) ![MarianMT](https://img.shields.io/badge/MarianMT-232633?style=flat-square) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-232633?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-232633?style=flat-square) ![VS Code](https://img.shields.io/badge/VS_Code-232633?style=flat-square) ![Postman](https://img.shields.io/badge/Postman-232633?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-232633?style=flat-square) ![Power BI](https://img.shields.io/badge/Power_BI-232633?style=flat-square) |
 
 ---
 
@@ -94,143 +71,170 @@ I learn best by building, so most of what I know comes from projects that starte
 
 > Click a project to expand it.
 
-<details>
-<summary><b>🩺 MediSense AI</b>: Medical Report Analyzer & Summarizer</summary>
-<br/>
-
-AI-powered system that extracts text from **PDF and image-based medical reports**, summarizes findings, and **detects abnormal values**. It securely stores reports and patient history, offers interactive dashboards, and includes an intelligent healthcare chatbot.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-2D3348?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-2D3348?style=flat-square&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D3348?style=flat-square&logo=postgresql&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR-2D3348?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-2D3348?style=flat-square&logo=openai&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🧭 EduCompass</b>: AI-Powered Student Planning Assistant</summary>
-<br/>
-
-AI-powered student assistant that provides **personalized career plans, study schedules, course recommendations, and wellness support**. Includes user-based recommendations and a feedback system to boost personalization and engagement.
-
-![Python](https://img.shields.io/badge/Python-2D3348?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-2D3348?style=flat-square&logo=streamlit&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>📑 PolicyNav</b>: AI Public Policy Navigator <i>(Infosys Springboard Internship)</i></summary>
-<br/>
-
-AI-powered public policy analysis platform that **simplifies government documents** using Retrieval-Augmented Generation (RAG), semantic search, document summarization, and Knowledge Graphs.
-
-![Python](https://img.shields.io/badge/Python-2D3348?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-2D3348?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-2D3348?style=flat-square)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-2D3348?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>🌍 Automated Translation in Live Sessions</b></summary>
-<br/>
-
-Real-time multilingual speech translation platform with **speech recognition, machine translation, live subtitles, and speech synthesis**.
-
-![Python](https://img.shields.io/badge/Python-2D3348?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-2D3348?style=flat-square&logo=openai&logoColor=white)
-![MarianMT](https://img.shields.io/badge/MarianMT-2D3348?style=flat-square)
-![TTS](https://img.shields.io/badge/Text--to--Speech-2D3348?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>🛒 LumoCart</b>: AI-Powered E-Commerce Platform</summary>
-<br/>
-
-Modern e-commerce platform featuring **product browsing, authentication, and a smart shopping experience**.
-
-![Python](https://img.shields.io/badge/Python-2D3348?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-2D3348?style=flat-square&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2D3348?style=flat-square&logo=sqlite&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🩸 BloodBridge</b>: Blood Donation Management System</summary>
-<br/>
-
-Connects **donors and recipients** efficiently through an easy-to-use platform.
-
-</details>
-
-<div align="center">
-
-[![All Repositories](https://img.shields.io/badge/View_All_Repositories-2D3348?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoojaK-K?tab=repositories)
-
-</div>
-
----
-
-## Experience
-
 <details open>
-<summary><b>AI Intern, Infosys Springboard</b> &nbsp;·&nbsp; Feb 2026 – Apr 2026 &nbsp;·&nbsp; Virtual</summary>
+<summary><b>MediSense AI</b> &nbsp;·&nbsp; Medical Report Analyzer &amp; Summarizer</summary>
 <br/>
 
-- Developed **PolicyNav**, an AI-powered public policy navigation solution involving document summarization and information retrieval
-- Gained hands-on experience with **Generative AI, RAG, document processing**, and AI-based information retrieval
+An AI-powered system that extracts text from PDF and image-based medical reports, summarizes the findings and detects abnormal values.
+
+- Secure report storage with patient history
+- Interactive dashboards
+- Healthcare chatbot for follow-up questions
+
+![FastAPI](https://img.shields.io/badge/FastAPI-232633?style=flat-square) ![React](https://img.shields.io/badge/React-232633?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232633?style=flat-square) ![OCR](https://img.shields.io/badge/OCR-232633?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-232633?style=flat-square)
+
+<!-- Add links when ready: [View Code](https://github.com/PoojaK-K/REPO-NAME) · [Live Demo](DEMO-URL) -->
 
 </details>
 
+<details>
+<summary><b>EduCompass</b> &nbsp;·&nbsp; AI-Powered Student Planning Assistant</summary>
+<br/>
+
+A student assistant that provides personalized career plans, study schedules, course recommendations and wellness support.
+
+- User-based recommendations
+- Feedback system to improve personalization and engagement
+
+![Python](https://img.shields.io/badge/Python-232633?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-232633?style=flat-square)
+
+<!-- Add links when ready: [View Code](https://github.com/PoojaK-K/REPO-NAME) · [Live Demo](DEMO-URL) -->
+
+</details>
+
+<details>
+<summary><b>PolicyNav</b> &nbsp;·&nbsp; AI Public Policy Navigator</summary>
+<br/>
+
+Built during my Infosys Springboard internship. Simplifies government policy documents using Retrieval-Augmented Generation (RAG), semantic search and knowledge graphs.
+
+- Document summarization
+- AI-based information retrieval
+
+![Python](https://img.shields.io/badge/Python-232633?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-232633?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-232633?style=flat-square) ![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-232633?style=flat-square)
+
+<!-- Add links when ready: [View Code](https://github.com/PoojaK-K/REPO-NAME) · [Live Demo](DEMO-URL) -->
+
+</details>
+
+<details>
+<summary><b>Automated Translation in Live Sessions</b> &nbsp;·&nbsp; Real-Time Speech Translation</summary>
+<br/>
+
+A multilingual speech translation platform combining speech recognition, machine translation, subtitles and speech synthesis.
+
+![Python](https://img.shields.io/badge/Python-232633?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-232633?style=flat-square) ![MarianMT](https://img.shields.io/badge/MarianMT-232633?style=flat-square) ![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-232633?style=flat-square)
+
+<!-- Add links when ready: [View Code](https://github.com/PoojaK-K/REPO-NAME) · [Live Demo](DEMO-URL) -->
+
+</details>
+
+<details>
+<summary><b>LumoCart</b> &nbsp;·&nbsp; AI-Powered E-Commerce Platform</summary>
+<br/>
+
+An e-commerce platform with product browsing, user authentication and a smart shopping experience.
+
+![Python](https://img.shields.io/badge/Python-232633?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-232633?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-232633?style=flat-square)
+
+<!-- Add links when ready: [View Code](https://github.com/PoojaK-K/REPO-NAME) · [Live Demo](DEMO-URL) -->
+
+</details>
+
+<details>
+<summary><b>BloodBridge</b> &nbsp;·&nbsp; Blood Donation Management System</summary>
+<br/>
+
+A management system that connects blood donors and recipients through an easy-to-use platform.
+
+<!-- Add tech stack badges here once confirmed -->
+<!-- Add links when ready: [View Code](https://github.com/PoojaK-K/REPO-NAME) · [Live Demo](DEMO-URL) -->
+
+</details>
+
+<div align="center">
+<a href="https://github.com/PoojaK-K?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-232633?style=for-the-badge" alt="Browse all repositories" /></a>
+</div>
+
 ---
 
-## GitHub Stats
+## Experience & Certifications
+
+### Experience
+
+| Period | Role | Highlights |
+|:--|:--|:--|
+| **Feb 2026 – Apr 2026** | **AI Intern**<br/>Infosys Springboard (Virtual) | Developed **PolicyNav**, an AI-powered public policy navigation solution for document summarization and information retrieval.<br/>Gained hands-on experience with Generative AI, RAG, document processing and AI-based information retrieval. |
+
+### Education
+
+| Period | Qualification | Details |
+|:--|:--|:--|
+| **2023 – 2027** | B.E. Computer Science & Engineering | V.S.B. Engineering College, Karur (Anna University) · CGPA 7.90 (up to 6th semester) |
+| **2023** | HSC | Sri Sankara Vidyalayaa, Karur (CBSE) · 76.8% |
+| **2021** | SSLC | Sri Sankara Vidyalayaa, Karur (CBSE) · 88.6% |
+
+### Certifications
+
+| Certification | Issuer | Result |
+|:--|:--|:--|
+| **Programming in Java** | NPTEL | Elite · 87% |
+| **Python Programming** | Livewire India | – |
+| **Principles of Generative AI** | Infosys Springboard | – |
+
+### Highlights
+
+- Infosys Springboard Virtual Internship 6.0
+- Solved 100+ Data Structures & Algorithms problems using Java
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=PoojaK-K&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171923&amp;title_color=A78BCA&amp;text_color=C5C9D3&amp;icon_color=8875A9&amp;ring_color=A78BCA&amp;border_radius=12" alt="GitHub stats for PoojaK-K" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaK-K&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=171923&amp;title_color=A78BCA&amp;text_color=C5C9D3&amp;border_radius=12" alt="Most used languages for PoojaK-K" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=PoojaK-K&amp;hide_border=true&amp;background=171923&amp;ring=A78BCA&amp;fire=A78BCA&amp;currStreakNum=F1F0F5&amp;sideNums=F1F0F5&amp;currStreakLabel=C5C9D3&amp;sideLabels=C5C9D3&amp;dates=8875A9&amp;border_radius=12" alt="GitHub contribution streak for PoojaK-K" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaK-K&amp;bg_color=171923&amp;color=C5C9D3&amp;line=A78BCA&amp;point=F1F0F5&amp;area=true&amp;area_color=8875A9&amp;title_color=A78BCA&amp;hide_border=true&amp;radius=12" alt="Contribution activity graph for PoojaK-K" />
+
+<br/>
+
+<!--
+  CONTRIBUTION SNAKE
+  This image only appears after the "Generate Snake" GitHub Action has run once.
+  Setup: add .github/workflows/snake.yml (see my notes), run it from the Actions tab,
+  then commit this README.
+-->
+<img width="100%" src="https://raw.githubusercontent.com/PoojaK-K/PoojaK-K/output/github-snake.svg" alt="Contribution snake animation" />
+
+<br/>
+
+<a href="https://github.com/PoojaK-K">View my full activity on GitHub</a>
 
 </div>
 
 ---
 
-## Achievements & Certifications
+## Currently Learning & Goals
 
-| | |
-|---|---|
-| 🏅 | **Infosys Springboard Virtual Internship 6.0** |
-| ☕ | **Programming in Java**, NPTEL (Elite, 87%) |
-| 🐍 | **Python Programming**, Livewire India |
-| 🤖 | **Principles of Generative AI**, Infosys Springboard |
-| 🧩 | Solved **100+ DSA problems** using Java |
+**Currently learning**
 
----
+![AI Agents](https://img.shields.io/badge/AI_Agents-8875A9?style=flat-square) ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-8875A9?style=flat-square) ![System Design](https://img.shields.io/badge/System_Design-8875A9?style=flat-square) ![Advanced Java](https://img.shields.io/badge/Advanced_Java-8875A9?style=flat-square) ![Backend Architecture](https://img.shields.io/badge/Backend_Architecture-8875A9?style=flat-square)
 
-## Currently Learning
+**2026 goals**
 
-<div align="center">
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-2D3348?style=for-the-badge)
-![Cloud](https://img.shields.io/badge/Cloud_Computing-2D3348?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-2D3348?style=for-the-badge)
-![Advanced Java](https://img.shields.io/badge/Advanced_Java-2D3348?style=for-the-badge)
-![Backend](https://img.shields.io/badge/Backend_Architecture-2D3348?style=for-the-badge)
-
-</div>
-
----
-
-## 2026 Goals
-
-- [x] Build AI-powered applications
-- [x] Complete an AI internship
-- [ ] Contribute to Open Source
-- [ ] Strengthen System Design & Backend Development
-- [ ] Learn and implement one new technology every month
-- [ ] Keep improving problem-solving skills
+- Build impactful AI-powered applications
+- Contribute to open source
+- Strengthen system design and backend development
+- Learn and implement one new technology every month
+- Keep improving problem-solving skills
 
 ---
 
@@ -238,12 +242,14 @@ Connects **donors and recipients** efficiently through an easy-to-use platform.
 
 <div align="center">
 
-<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/poojakathirvelv@gmail.com-2D3348?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/linkedin.com/in/poojak--k-2D3348?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/portfolio--gv18.vercel.app-2D3348?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:poojakathirvelv@gmail.com"><img src="https://img.shields.io/badge/Email-poojakathirvelv@gmail.com-8875A9?style=for-the-badge&amp;labelColor=232633" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/poojak-k/"><img src="https://img.shields.io/badge/LinkedIn-poojak--k-8875A9?style=for-the-badge&amp;labelColor=232633" alt="LinkedIn" /></a>
+<a href="https://portfolio-gv18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-portfolio--gv18.vercel.app-8875A9?style=for-the-badge&amp;labelColor=232633" alt="Portfolio" /></a>
 
 <br/><br/>
 
 *"Turning ideas into intelligent software through continuous learning and innovation."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:171923,55:232633,100:8875A9&amp;height=110&amp;section=footer" alt="" />
 
 </div>
