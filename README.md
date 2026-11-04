@@ -107,7 +107,7 @@ I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack D
 <sub>Explore some of the applications and ideas I've been working on.</sub>
 
 <details open>
-<summary><b>✦ MediSense AI</b> &nbsp;|&nbsp; Medical Report Analyzer &amp; Summarizer</summary>
+<summary><b>✦ MediSense AI</b> &#160;|&#160; Medical Report Analyzer &amp; Summarizer</summary>
 
 <br/>
 
@@ -130,7 +130,7 @@ An AI-assisted healthcare platform that analyzes medical reports, extracts impor
 </details>
 
 <details>
-<summary><b>✦ EduCompass AI</b> &nbsp;|&nbsp; AI-Powered Student Planning Assistant</summary>
+<summary><b>✦ EduCompass AI</b> &#160;|&#160; AI-Powered Student Planning Assistant</summary>
 
 <br/>
 
@@ -153,7 +153,7 @@ An AI-powered student planning assistant that generates personalized career path
 </details>
 
 <details>
-<summary><b>✦ PolicyNav</b> &nbsp;|&nbsp; AI Public Policy Navigator</summary>
+<summary><b>✦ PolicyNav</b> &#160;|&#160; AI Public Policy Navigator</summary>
 
 <br/>
 
@@ -177,7 +177,7 @@ Developed during my Infosys Springboard AI internship, PolicyNav simplifies comp
 </details>
 
 <details>
-<summary><b>✦ Automated Translation in Live Sessions</b> &nbsp;|&nbsp; Real-Time Speech Translation</summary>
+<summary><b>✦ Automated Translation in Live Sessions</b> &#160;|&#160; Real-Time Speech Translation</summary>
 
 <br/>
 
@@ -200,7 +200,7 @@ A multilingual speech translation platform designed to make live communication m
 </details>
 
 <details>
-<summary><b>✦ LumoCart</b> &nbsp;|&nbsp; AI-Powered E-Commerce Platform</summary>
+<summary><b>✦ LumoCart</b> &#160;|&#160; AI-Powered E-Commerce Platform</summary>
 
 <br/>
 
@@ -221,7 +221,7 @@ An e-commerce application focused on product discovery, user authentication and 
 </details>
 
 <details>
-<summary><b>✦ BloodBridge</b> &nbsp;|&nbsp; Blood Donation Management System</summary>
+<summary><b>✦ BloodBridge</b> &#160;|&#160; Blood Donation Management System</summary>
 
 <br/>
 
@@ -253,7 +253,7 @@ A blood donation management platform designed to connect donors and recipients t
 ## ✦ Experience
 
 <details open>
-<summary><b>✧ AI Intern — Infosys Springboard</b> &nbsp;|&nbsp; February 2026 – April 2026</summary>
+<summary><b>✧ AI Intern — Infosys Springboard</b> &#160;|&#160; February 2026 – April 2026</summary>
 
 <br/>
 
@@ -267,7 +267,7 @@ A blood donation management platform designed to connect donors and recipients t
 </details>
 
 <details>
-<summary><b>✧ Web Development Intern — Newmak Technology</b> &nbsp;|&nbsp; December 2024 – January 2025</summary>
+<summary><b>✧ Web Development Intern — Newmak Technology</b> &#160;|&#160; December 2024 – January 2025</summary>
 
 <br/>
 
@@ -283,7 +283,7 @@ A blood donation management platform designed to connect donors and recipients t
 ## ✦ Certifications
 
 <details open>
-<summary><b>🏅 View Certifications &amp; Achievements</b> &nbsp;·&nbsp; Click to explore</summary>
+<summary><b>🏅 View Certifications &amp; Achievements</b> &#160;·&#160; Click to explore</summary>
 
 <br/>
 
