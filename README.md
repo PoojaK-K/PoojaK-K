@@ -54,9 +54,9 @@ I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack D
 
 ---
 
-## ✦ Tech Stack & Tools
+## ✦ Tech Stack &amp; Tools
 
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c,js&amp;theme=dark" />
@@ -80,7 +80,7 @@ I enjoy exploring the intersection of **Artificial Intelligence and Full-Stack D
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&amp;theme=dark" />
 </p>
 
-### AI & Machine Learning
+### AI &amp; Machine Learning
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white"/>
