@@ -69,9 +69,11 @@ Most of my learning happens by building: medical report analysis, student planni
 </tr>
 </table>
 
+<br/>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <h3>EduCompass AI</h3>
 <img src="https://img.shields.io/badge/AI%20%C2%B7%20Education-DBEAFE?style=flat-square" alt="AI · Education" height="22" />
@@ -92,7 +94,14 @@ Most of my learning happens by building: medical report analysis, student planni
 </details>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top">
 
 <h3>PolicyNav</h3>
 <img src="https://img.shields.io/badge/AI%20%C2%B7%20Infosys%20Springboard%20internship-DBEAFE?style=flat-square" alt="AI · Infosys Springboard internship" height="22" />
@@ -114,8 +123,13 @@ Most of my learning happens by building: medical report analysis, student planni
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <h3>Collabos</h3>
 <img src="https://img.shields.io/badge/Full--stack%20%C2%B7%20Collaboration-DBEAFE?style=flat-square" alt="Full-stack · Collaboration" height="22" />
@@ -136,7 +150,14 @@ Most of my learning happens by building: medical report analysis, student planni
 </details>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top">
 
 <h3>Automated Translation in Live Sessions</h3>
 <img src="https://img.shields.io/badge/AI%20%C2%B7%20Speech-DBEAFE?style=flat-square" alt="AI · Speech" height="22" />
@@ -158,8 +179,13 @@ Most of my learning happens by building: medical report analysis, student planni
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 <h3>BloodBridge</h3>
 <img src="https://img.shields.io/badge/Backend%20%C2%B7%20Healthcare-DBEAFE?style=flat-square" alt="Backend · Healthcare" height="22" />
@@ -179,7 +205,14 @@ Most of my learning happens by building: medical report analysis, student planni
 </details>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top">
 
 <h3>LumoCart</h3>
 <img src="https://img.shields.io/badge/Streamlit%20%C2%B7%20E--commerce-DBEAFE?style=flat-square" alt="Streamlit · E-commerce" height="22" />
@@ -200,6 +233,8 @@ Most of my learning happens by building: medical report analysis, student planni
 </td>
 </tr>
 </table>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/PoojaK-K/PoojaK-K/main/assets/divider.svg" alt="" width="100%" />
 
