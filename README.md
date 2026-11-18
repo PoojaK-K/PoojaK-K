@@ -6,10 +6,12 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/PoojaK-K/PoojaK-K/main/assets/banner.svg" alt="Pooja K K" width="100%" />
+<img src="https://raw.githubusercontent.com/PoojaK-K/PoojaK-K/main/assets/banner.svg" alt="" width="100%" />
+
+<h1>Pooja K K</h1>
 
 <a href="https://github.com/PoojaK-K">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Generative+AI+%C2%B7+RAG+%C2%B7+Full-Stack+Development" alt="Computer Science and Engineering Student · Aspiring Software Developer · Generative AI, RAG, Full-Stack Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=20&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Developer;Generative+AI+%C2%B7+RAG+%C2%B7+Full-Stack+Development" alt="Computer Science and Engineering Student · Aspiring Software Developer · Generative AI, RAG, Full-Stack Development" />
 </a>
 
 </div>
@@ -165,7 +167,7 @@ Most of my learning happens by building: medical report analysis, student planni
 <div align="center">
 
 <a href="https://leetcode.com/u/Pooja_K_K/">
-  <img src="https://leetcard.jacoblin.cool/Pooja_K_K?theme=light&font=Nunito&ext=heatmap" alt="LeetCode statistics for Pooja_K_K: problems solved, difficulty breakdown and activity heatmap" width="95%" />
+  <img src="https://leetcard.jacoblin.cool/Pooja_K_K?theme=light&font=Nunito" alt="LeetCode statistics for Pooja_K_K: problems solved and difficulty breakdown" width="460" />
 </a>
 
 <sub>Loaded live from LeetCode · <a href="https://leetcode.com/u/Pooja_K_K/">leetcode.com/u/Pooja_K_K</a></sub>
